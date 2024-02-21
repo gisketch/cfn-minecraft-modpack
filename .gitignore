@@ -4,3 +4,4 @@ observable-4.4.1.jar
 .backup/
 .connector/
 spark-1.10.53-forge.jar
+test/
